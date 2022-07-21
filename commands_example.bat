@@ -3,6 +3,9 @@
 :: or
 :: command -flag argument1 -flag2 argument
 
+python
+:: open python terminal
+
 pip install numpy 
 :: use pip to install numpy
 
